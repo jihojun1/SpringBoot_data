@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Mon Mar 13 13:14:52 KST 2023
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\502\\.m2\\repository\\org\\springframework\\spring-web\\5.0.7.RELEASE\\spring-web-5.0.7.RELEASE.jar=C\:\\apache-tomcat-9s\\wtpwebapps\\ex02\\WEB-INF\\lib\\spring-web-5.0.7.RELEASE.jar
+org.eclipse.jst.jee.server\:ex02=C\:\\apache-tomcat-9s\\wtpwebapps\\ex02

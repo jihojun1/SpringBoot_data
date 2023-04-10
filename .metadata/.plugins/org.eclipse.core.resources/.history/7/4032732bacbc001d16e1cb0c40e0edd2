@@ -1,0 +1,13 @@
+package org.zreock.mapper;
+
+public class testinsert {
+
+	BoardVO board = new BoardVO();
+	board.setTitle("새로 작성하는 글");
+	board.setContent("");
+	board.setWriter("");
+	
+	mapper.insert(board);
+	
+	log.info
+}
